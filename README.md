@@ -37,4 +37,4 @@ In the final optimization, the activation function for the ouput layer was chang
 
 # Summary
 
-The model could not reach to the target accuracy of 75% despite the optimization, but was close to 75% with an accuracy of 69.9% in the first try. The accuracy could get closer to 75%, if more data were provided in the dataset. A better accuracy might have been reached to with the Random Forest Classifiers because it creates as many trees on the subset of the data and combines the output of all the trees. In this way it reduces overfitting problem in decision trees and also reduces the variance and therefore improves the accuracy. 
+The model could not reach to the target accuracy of 75% despite the optimization, but was close to 75% with an accuracy of 69.9% in the first try. The accuracy could get closer to 75%, if more data were provided in the dataset. A better accuracy might have been reached with the Random Forest Classifier because it creates as many trees on the subset of the data and combines the output of all the trees. In this way it reduces overfitting problem in decision trees and also reduces the variance and therefore improves the accuracy. 
