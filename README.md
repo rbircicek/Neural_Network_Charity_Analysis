@@ -21,3 +21,10 @@ The desired target was 75% for accuracy, which was never reached. The highest le
 
 ![image](https://user-images.githubusercontent.com/96134924/171036812-704c8b6f-d9f1-4870-9a7e-c8999ad8d7e1.png)
 
+
+When an additional hidden layer added, with additional neurons, the accuracy was decreased to 53.7%.
+
+![image](https://user-images.githubusercontent.com/96134924/171045769-688b6e09-9c58-4cfe-96e2-dbb6de89b781.png)
+
+![image](https://user-images.githubusercontent.com/96134924/171045849-401c6cc4-7937-4031-b645-a2dd15726e66.png)
+
