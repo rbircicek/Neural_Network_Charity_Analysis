@@ -28,3 +28,13 @@ When an additional hidden layer added, with additional neurons, the accuracy was
 
 ![image](https://user-images.githubusercontent.com/96134924/171045849-401c6cc4-7937-4031-b645-a2dd15726e66.png)
 
+In the final optimization, the activation function for the ouput layer was changed to "tanh" (tangent h), and the accuracy went down to 46.5%.
+
+![image](https://user-images.githubusercontent.com/96134924/171047166-b2a8e412-e6e1-489a-b7a1-567b852db094.png)
+
+![image](https://user-images.githubusercontent.com/96134924/171047208-1f710c86-18aa-440a-9eff-6fb5781e401b.png)
+
+
+# Summary
+
+The model could not reach to the target accuracy of 75% despite the optimization, but was close to 75% with an accuracy of 69.9% in the first try. The accuracy could get closer to 75%, if more data were provided in the dataset. A better accuracy might have been reached to with the Random Forest Classifiers because it creates as many trees on the subset of the data and combines the output of all the trees. In this way it reduces overfitting problem in decision trees and also reduces the variance and therefore improves the accuracy. 
